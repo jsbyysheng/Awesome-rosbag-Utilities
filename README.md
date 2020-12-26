@@ -53,7 +53,7 @@ This is a list of various utilities repos in `github` for easily using `rosbag`.
 
 ## Distributed system
 - [ros_hadoop](https://github.com/autovia/ros_hadoop) Hadoop splittable InputFormat for ROS. Process rosbag with Hadoop Spark and other HDFS compatible systems.
-- [rbb_core])(https://github.com/AMZ-Driverless/rbb_core) This repository contains the core of the Rosbag Bazaar (RBB), a tool to index/visualize/manage rosbags on remote storage systems.
+- [rbb_core](https://github.com/AMZ-Driverless/rbb_core) This repository contains the core of the Rosbag Bazaar (RBB), a tool to index/visualize/manage rosbags on remote storage systems.
 - [rosbag-uploader-ros1](https://github.com/search?o=desc&p=4&q=rosbag&s=stars&type=Repositories) ROS packages for uploading rosbags to AWS cloud services.
 
 ## Others
